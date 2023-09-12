@@ -7,6 +7,9 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working as a Software Developer Trainee
 - 🌱 I’m currently learning ASP.NET Framework for the Back-end and Angular For the Front End.
+
+<!-- 🌐 Socials: -->
+  
 <!-- - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
