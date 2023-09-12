@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-<!-- **Pawankumar7814/Pawankumar7814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+<!-- **Pawankumar7814/Pawankumar7814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working as a Software Developer Trainee
 - 🌱 I’m currently learning ASP.NET Framework for the Back-end and Angular For the Front End.
