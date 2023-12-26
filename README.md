@@ -7,6 +7,8 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working as a Software Developer Trainee
 - 🌱 I’m currently learning ASP.NET Framework for the Back-end and Angular For the Front End.
+-     I'm learning Node.js and building such mini projects so that concept will be more clear.
+- Practising all the theoritical concepts such as OOPS, Theads, Exception Handling and other concepts.
 
 <!-- 🌐 Socials: -->
   
