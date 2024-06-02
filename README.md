@@ -3,7 +3,7 @@
 ### About Me 
 - 👩🏻‍💻 Pronouns: He/Him
 - 💼 I’m currently working as a <strong>Software Engineer</strong> at [RECHNER INFOSYSTEM PVT LTD](hr.Perfetto.com).
-- 🎒 I've done almost 1.5 years experience as Full Stack Developer.
+- 🎒 I've 1.5 years experience as Full Stack Developer.
 - 🧭 I love exploring and working both in frontend and backend.
 - 🎭 I love speaking at events and connecting with people.
 
