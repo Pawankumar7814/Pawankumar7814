@@ -23,7 +23,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="DotNet_Core" **alt="DotNet_Core" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node" **alt="Node" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodemon/nodemon-original.svg" title="nodemon" **alt="nodemon" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" title="AngularJs" **alt="AngularJs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/angular/angular-original.svg" title="Angular" **alt="Angular" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>  
 
